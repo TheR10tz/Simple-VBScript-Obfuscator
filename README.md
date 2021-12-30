@@ -8,4 +8,4 @@ Don't use this tool for evil purposes 😈 ..unless you want to prank your frien
 BUT DON'T DO IT!!! 👮🚔
 
 
-However, if you want to obfuscate your code, click here: [https://ther10tz.github.io/Simple-VBScript-Obfuscator/](https://ther10tz.github.io/Simple-VBScript-Obfuscator/)
+By the way, if you want to obfuscate your code, click here: [https://ther10tz.github.io/Simple-VBScript-Obfuscator/](https://ther10tz.github.io/Simple-VBScript-Obfuscator/)
