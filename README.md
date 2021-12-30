@@ -7,4 +7,5 @@ By using this tool, you can convert your VBScript code into an obfuscated VBS co
 Don't use this tool for evil purposes 😈 ..unless you want to prank your friends with fake virus but it's obfuscated HAHAHA. Just kidding :)
 BUT DON'T DO IT!!! 👮🚔
 
+
 However, if you want to obfuscate your code, click here: [https://ther10tz.github.io/Simple-VBScript-Obfuscator/](https://ther10tz.github.io/Simple-VBScript-Obfuscator/)
