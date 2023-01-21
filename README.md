@@ -1,4 +1,6 @@
 # Simple-VBScript-Obfuscator
+[<img src="https://github.com/TheR10tz/Simple-VBScript-Obfuscator/raw/main/donate-bitcoin.png" width="150"/>](bitcoin:38NkezDHZ6BMpq6xuGjcbzCFPgduhgdbeb)
+
 A simple vbscript obfuscator coded by [TheR10tz](https://github.com/TheR10tz). It's lightweight, fast and easy to use. You can obfuscate your vbscript code in a matter of seconds!
 
 This tool protects your VBScript source code by obfuscating it using our simple VBScript Obfuscator Tool.
