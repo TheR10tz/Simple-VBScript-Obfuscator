@@ -1,5 +1,5 @@
 # Simple-VBScript-Obfuscator
-[<img src="https://github.com/TheR10tz/Simple-VBScript-Obfuscator/raw/main/donate-bitcoin.png" width="150"/>](https://link.trustwallet.com/send?coin=0&address=bc1qxqmt5mrk3uplvu4vcaqsenkuwhqm7pa23twwnk&amount=0.01)
+[<img src="https://github.com/TheR10tz/Simple-VBScript-Obfuscator/raw/main/heart-donation.png" width="150"/>](https://link.trustwallet.com/send?coin=0&address=bc1qxqmt5mrk3uplvu4vcaqsenkuwhqm7pa23twwnk&amount=0.01)
 
 A simple vbscript obfuscator coded by [TheR10tz](https://github.com/TheR10tz). It's lightweight, fast and easy to use. You can obfuscate your vbscript code in a matter of seconds!
 
